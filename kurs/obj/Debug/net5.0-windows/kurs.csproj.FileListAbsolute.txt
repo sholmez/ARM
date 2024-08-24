@@ -1,0 +1,129 @@
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\kurs.exe
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\kurs.deps.json
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\kurs.runtimeconfig.json
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\kurs.runtimeconfig.dev.json
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\kurs.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\kurs.pdb
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\EPPlus.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\EPPlus.Interfaces.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\EPPlus.System.Drawing.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kurs.csproj.AssemblyReference.cache
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.Authorization.resources
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.Category.resources
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.Clients.resources
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.Items.resources
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.MainForm.resources
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kursova3.Order.resources
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kurs.Properties.Resources.resources
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kurs.csproj.GenerateResource.cache
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kurs.AssemblyInfoInputs.cache
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kurs.AssemblyInfo.cs
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kurs.csproj.CoreCompileInputs.cache
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kurs.csproj.CopyComplete
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kurs.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\refint\kurs.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kurs.pdb
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\kurs.genruntimeconfig.cache
+C:\Users\na7da\OneDrive\Рабочий стол\kursova3\kursova3\obj\Debug\net5.0-windows\ref\kurs.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\bin\Debug\net5.0-windows\kurs.exe
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\bin\Debug\net5.0-windows\kurs.deps.json
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\bin\Debug\net5.0-windows\kurs.runtimeconfig.json
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\bin\Debug\net5.0-windows\kurs.runtimeconfig.dev.json
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\bin\Debug\net5.0-windows\kurs.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\bin\Debug\net5.0-windows\kurs.pdb
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\bin\Debug\net5.0-windows\EPPlus.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\bin\Debug\net5.0-windows\EPPlus.Interfaces.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\bin\Debug\net5.0-windows\EPPlus.System.Drawing.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\bin\Debug\net5.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\obj\Debug\net5.0-windows\kurs.csproj.AssemblyReference.cache
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\obj\Debug\net5.0-windows\kurs.Properties.Resources.resources
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\obj\Debug\net5.0-windows\kurs.csproj.GenerateResource.cache
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\obj\Debug\net5.0-windows\kurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\obj\Debug\net5.0-windows\kurs.AssemblyInfoInputs.cache
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\obj\Debug\net5.0-windows\kurs.AssemblyInfo.cs
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\obj\Debug\net5.0-windows\kurs.csproj.CoreCompileInputs.cache
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\obj\Debug\net5.0-windows\kurs.csproj.CopyComplete
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\obj\Debug\net5.0-windows\kurs.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\obj\Debug\net5.0-windows\refint\kurs.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\obj\Debug\net5.0-windows\kurs.pdb
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\obj\Debug\net5.0-windows\kurs.genruntimeconfig.cache
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\obj\Debug\net5.0-windows\ref\kurs.dll
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\obj\Debug\net5.0-windows\kurs.Clients.resources
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\obj\Debug\net5.0-windows\kurs.Authorization.resources
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\obj\Debug\net5.0-windows\kurs.Category.resources
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\obj\Debug\net5.0-windows\kurs.Items.resources
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\obj\Debug\net5.0-windows\kurs.MainForm.resources
+C:\Users\na7da\OneDrive\Рабочий стол\kurs\kurs\obj\Debug\net5.0-windows\kurs.Order.resources
+D:\kurs\kurs\bin\Debug\net5.0-windows\kurs.exe
+D:\kurs\kurs\bin\Debug\net5.0-windows\kurs.deps.json
+D:\kurs\kurs\bin\Debug\net5.0-windows\kurs.runtimeconfig.json
+D:\kurs\kurs\bin\Debug\net5.0-windows\kurs.runtimeconfig.dev.json
+D:\kurs\kurs\bin\Debug\net5.0-windows\kurs.dll
+D:\kurs\kurs\bin\Debug\net5.0-windows\kurs.pdb
+D:\kurs\kurs\bin\Debug\net5.0-windows\EPPlus.dll
+D:\kurs\kurs\bin\Debug\net5.0-windows\EPPlus.Interfaces.dll
+D:\kurs\kurs\bin\Debug\net5.0-windows\EPPlus.System.Drawing.dll
+D:\kurs\kurs\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+D:\kurs\kurs\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\kurs\kurs\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\kurs\kurs\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\kurs\kurs\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\kurs\kurs\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\kurs\kurs\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\kurs\kurs\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\kurs\kurs\bin\Debug\net5.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\kurs\kurs\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\kurs\kurs\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\kurs\kurs\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\kurs\kurs\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\kurs\kurs\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\kurs\kurs\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\kurs\kurs\obj\Debug\net5.0-windows\kurs.csproj.AssemblyReference.cache
+D:\kurs\kurs\obj\Debug\net5.0-windows\kurs.Authorization.resources
+D:\kurs\kurs\obj\Debug\net5.0-windows\kurs.Category.resources
+D:\kurs\kurs\obj\Debug\net5.0-windows\kurs.Clients.resources
+D:\kurs\kurs\obj\Debug\net5.0-windows\kurs.Items.resources
+D:\kurs\kurs\obj\Debug\net5.0-windows\kurs.MainForm.resources
+D:\kurs\kurs\obj\Debug\net5.0-windows\kurs.Order.resources
+D:\kurs\kurs\obj\Debug\net5.0-windows\kurs.Properties.Resources.resources
+D:\kurs\kurs\obj\Debug\net5.0-windows\kurs.csproj.GenerateResource.cache
+D:\kurs\kurs\obj\Debug\net5.0-windows\kurs.GeneratedMSBuildEditorConfig.editorconfig
+D:\kurs\kurs\obj\Debug\net5.0-windows\kurs.AssemblyInfoInputs.cache
+D:\kurs\kurs\obj\Debug\net5.0-windows\kurs.AssemblyInfo.cs
+D:\kurs\kurs\obj\Debug\net5.0-windows\kurs.csproj.CoreCompileInputs.cache
+D:\kurs\kurs\obj\Debug\net5.0-windows\kurs.csproj.CopyComplete
+D:\kurs\kurs\obj\Debug\net5.0-windows\kurs.dll
+D:\kurs\kurs\obj\Debug\net5.0-windows\refint\kurs.dll
+D:\kurs\kurs\obj\Debug\net5.0-windows\kurs.pdb
+D:\kurs\kurs\obj\Debug\net5.0-windows\kurs.genruntimeconfig.cache
+D:\kurs\kurs\obj\Debug\net5.0-windows\ref\kurs.dll
